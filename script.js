@@ -31,7 +31,6 @@ async function checkWeather(city) {
  }else {
     document.querySelector(".weatherimage").src = "images/wind.png"
  }
-
     
  }
 
